@@ -1,1 +1,1 @@
-console.log ('Git is Awesome!')
+console.log ('Git is Awesome! This text has been added using git branch issue_1')
